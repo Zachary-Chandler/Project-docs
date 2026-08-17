@@ -12,7 +12,7 @@ The purpose of this document is to keep a detailed record of the project—not o
 **Role:** Site Reliability Engineering (SRE) Intern  
 **Organization:** Toyota Financial Services (TFS)  
 **Location:** Plano, TX  
-**Internship:** May 18, 2026 – July 27, 2026  
+**Internship:** May 18, 2026 – August 7th, 2026  
 **Primary Focus:** Automated remediation, service reliability, monitoring, infrastructure simulation, testing, and the migration of the project from Docker-based development toward Kubernetes/EKS.
 
 ## Core Goal
